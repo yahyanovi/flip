@@ -1,12 +1,12 @@
 <html>
 	<head>
 		<title>Flip Native | List disburs</title>
-		<link rel="stylesheet" href="/flip/assets/css/bootstrap.css" />
-		<script type="text/javascript" src="/flip/assets/js/bootstrap.js"></script>
+		<link rel="stylesheet" href="/flip-master/assets/css/bootstrap.css" />
+		<script type="text/javascript" src="/flip-master/assets/js/bootstrap.js"></script>
 	</head>
 	<body>
 		<div class="row">
-			<div class="col-md-4"><h3>List disburs</h3><a  href="/flip/?">Back to form disburs </a>
+			<div class="col-md-4"><h3>List disburs</h3><a  href="/flip-master/?">Back to form disburs </a>
 				<table class="table table-responsive">
 					<tr>
 						<td>Detail</td>

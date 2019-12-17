@@ -1,9 +1,9 @@
 # flip
-Cara menjalankan prokect Disburs Native;
+Cara menjalankan test Flip Native;
 1. Extract file zip
-2. Migration databes, table and data. run with command php migration.php
-3. Copy folder soal-native ke htdocs xampp /wampp 
-4. http://localhost/flip/ 
+2. Migration database, table and data. run with command php migration.php
+3. Copy folder flip-master ke htdocs xampp /wampp 
+4. http://localhost/flip-master/ 
 5. Isi form dan  submit untuk inquiry disburs
 6. Klik show list disburs untuk lihat list disburs
 7. Klik id disburs untuk cek ulang status disburs

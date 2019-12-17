@@ -1,14 +1,14 @@
 <html>
 	<head>
 		<title>Native MVC Example</title>
-		<link rel="stylesheet" href="/flip/assets/css/bootstrap.css" />
-		<script type="text/javascript" src="/flip/assets/js/bootstrap.js"></script>
+		<link rel="stylesheet" href="/flip-master/assets/css/bootstrap.css" />
+		<script type="text/javascript" src="/flip-master/assets/js/bootstrap.js"></script>
 	</head>
 	<body>
 		<div class="row">
 			<div class="col-md-12">
 				<div class="col-md-4">&nbsp;</div>
-				<div class="col-md-4"><h3>Detail log disburs</h3><a  href="/flip/?">Back to form disburs </a> | <a href="/flip/?flip=tampil-data">Show list disburs</a><br><br>
+				<div class="col-md-4"><h3>Detail log disburs</h3><a  href="/flip-master/?">Back to form disburs </a> | <a href="/flip-master/?flip=tampil-data">Show list disburs</a><br><br>
 					<?php 
 
 						echo 'id_disburs:' . $rs['id_disburs'] . '<br/>';
